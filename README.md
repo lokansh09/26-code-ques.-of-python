@@ -1,0 +1,1 @@
+# 26-code-ques.-of-python
